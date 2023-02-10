@@ -1,0 +1,34 @@
+html{
+    font-size: 75.5%
+}
+
+.header{
+    font-size: 12px;
+}
+
+.characteristics__article{
+    height: 180px;
+}
+
+.choosePlan__slider{
+    justify-content: center;
+    overflow-x: hidden;
+    height: 500px;
+
+}
+.choosePlan__plan{
+    width: 300px;
+}
+.footer{
+    justify-content: space-around;
+}
+.footer__links{
+    flex-direction: row;
+    gap: 20px;
+}
+.choosePlan__header{
+    background: url(../assets/images/bitcoinbabyx4.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
